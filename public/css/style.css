@@ -165,7 +165,7 @@ body {
     align-items: center;
     /* background-color: var(--pure); */
     position: relative;
-    background: url(../images/3dpic.png) no-repeat;
+    background: url("../images/3dpic.png") no-repeat;
     background-color: var(--dark-blue);
     background-size: cover;
     background-position: center;
